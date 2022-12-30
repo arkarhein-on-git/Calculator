@@ -1,0 +1,9 @@
+/* style for the result box */
+
+.result{
+    border: 1px solid;
+    height: 30px;
+    width: auto;
+    padding: 16px;
+}
+
